@@ -1,4 +1,8 @@
 ###################
+Sebelum digunakan, rename nama folder vendorr, menjadi vendor
+###################
+
+###################
 What is CodeIgniter
 ###################
 
