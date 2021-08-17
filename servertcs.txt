@@ -1,0 +1,11 @@
+username : epiz_26694672
+pass : xr9pD05cMzXmq
+
+database
+db name : epiz_26694672_tcs_login
+db username : epiz_26694672
+db hostname : sql200.epizy.com
+
+https://app.infinityfree.net/accounts/epiz_26694672#
+
+label : Website for studiotcs.epizy.com
